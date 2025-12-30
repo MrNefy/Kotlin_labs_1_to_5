@@ -1,0 +1,9 @@
+com\galucinogen\library\controller\AuthControllerIntegrationTest.class
+com\galucinogen\library\LibraryOperationsApplicationTests.class
+com\galucinogen\library\service\AchievementServiceTest.class
+com\galucinogen\library\service\MemberServiceTest.class
+com\galucinogen\library\service\ResourceServiceTest.class
+com\galucinogen\library\controller\ResourceControllerIntegrationTest.class
+com\galucinogen\library\controller\AchievementControllerIntegrationTest.class
+com\galucinogen\library\controller\MemberControllerIntegrationTest.class
+com\galucinogen\library\service\EventServiceTest.class
